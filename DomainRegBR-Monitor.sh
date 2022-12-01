@@ -1,6 +1,6 @@
 #!/bin/bash
 # Igor Andrade on 15/06/2022 
-# SysOps Sr at HostGator LatAm 
+# Debian-PB.org
 #
 # Revamped on 01/12/2022
 # Script to monitor domains avaibility to purchase on registro.br
