@@ -4,6 +4,9 @@
 #
 # Revamped on 01/12/2022
 # Script to monitor domains avaibility to purchase on registro.br
+#
+# This script should send everyday data about the status of the domain, when they enter on the lists of registro.br you will see the status as available to
+# enter in a dispute to register it.
 
 
 
