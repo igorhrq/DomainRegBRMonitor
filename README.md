@@ -1,6 +1,5 @@
 # DomainRegBRMonitor
-Script shell para monitorar domínios do registro.br e no momento certo facilitar o ganho de disputas quando estes estiverem disponíveis para tal
-A shell script to monitor domains avaibility on registro.br to registration, a good tool to get your preferred domain
+Script shell para monitorar domínios do registro.br e no momento certo facilitar o ganho de disputas quando estes estiverem disponíveis para tal;
 
 ## Hints:
 
