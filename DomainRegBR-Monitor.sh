@@ -35,7 +35,7 @@ URL_TEAMS1="https://suaURLdoteams.com/webhookb2/IncomingWebhook/....."
 # Dados telegram webhook (dados abaixo são inválidos, e precisam ser substituidos pelos seus)
 chat_id="-1000000000"
 token="1000000000:AAAAA5AlaaAS8q19HGFJjiAAAAAzzzTwOyxc"
-URLTelegram="https://api.telegram.org/bot$token/sendMessage"
+
 
 
 # Escreva uma lista de domínios a serem monitorados
@@ -48,6 +48,8 @@ Domain3ToMonitor.com.br
 
 # NAO ALTERAR NADA NO CÓDIGO APOS ESSA LINHA
 ###################################################################
+
+URLTelegram="https://api.telegram.org/bot$token/sendMessage"
 
 # Checa as listas do registro.br e verifica se os domínios escolhidos estão em alguma delas
 lista1="https://registro.br/dominio/processo-de-liberacao/"
